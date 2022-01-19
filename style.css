@@ -106,7 +106,7 @@ input  {
 
 #enemy-side {
   
-    border: solid black;
+    /* border: solid black; */
     width: 70%;
     margin: 0 auto;
     height: 60px;
@@ -128,7 +128,7 @@ input  {
 
 
 #myside {
-    border: solid black;
+    /* border: solid black; */
    
     width: 70%;
     height: 25%;
@@ -141,8 +141,8 @@ input  {
     
 }
 .myShip {
+    /* border: solid black; */
     color :black;
-    border: solid black;
     background-color: greenyellow;
     font-size: 30px;
     height: 50%;
